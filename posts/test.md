@@ -1,6 +1,6 @@
 ---
 title: 测试
-date: 2025年10月16日12:36:50
+date: 2025-10-16 12:36:50
 tags: [测试1, 测试2]
 pinned: true 文章置顶，默认false
 head:
